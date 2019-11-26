@@ -9,7 +9,7 @@ use Symfony\Component\Console\Question\Question;
 use Osky\Command;
 
 /**
- * Author: Chidume Nnamdi <kurtwanger40@gmail.com>
+ * Author: Ashraf Kamarudin <ashrafkamarudin1995@gmail.com>
  */
 class TimeCommand extends Command
 {
