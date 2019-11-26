@@ -12,6 +12,14 @@ Custom Simple php command line application that search through subreddit post. T
 
 * PHP 7.2^
 
+### How to use
+
+1. Clone this repository with `git clone https://github.com/ashrafkamarudin/PHP-CLI.git`
+2. Open terminal and CD into the project directory.
+3. Run the project with `php osky.php reddit:search`
+
+4. Run `php osky.php` to see all available commands.
+
 ## Built With
 
 * [Symfony/Console](https://symfony.com/doc/current/components/console.html) -  Symfony is a set of PHP Components, a Web Application framework, a Philosophy, and a Community — all working together in harmony.
