@@ -8,7 +8,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Console\Helper\Table;
 
 /**
- * Author: Chidume Nnamdi <kurtwanger40@gmail.com>
+ * Author: Ashraf Kamarudin <ashrafkamarudin@gmail.com>
  */
 class Command extends SymfonyCommand
 {
